@@ -1,0 +1,28 @@
+# NuGet
+**/[Pp]ackages/*
+**/[Rr]eleases/*
+*.nupkg
+/Packages
+
+# JetBrains
+.idea/
+
+# Microsoft Visual Studio
+*.[Cc]ache
+*.log
+*.obj
+*.pdb
+*.rdl.data
+*.rsuser
+*.user
+.vs/
+[Bb]in/
+[Dd]ebug/
+[Oo]bj/
+[Rr]elease/
+x64/
+x86/
+
+# Telerik
+Apps/Source/InSite/Properties/licenses.licx
+RadUploadTemp/
